@@ -6,4 +6,4 @@
 ## Встановлення
 1. Клонуйте репозиторій:
    ```sh
-   git clone https://github.com/користувач/репозиторій.git
+   git clone https://github.com/gostik01/ad_labs.git
